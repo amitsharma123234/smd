@@ -1,1 +1,1 @@
-./run.sh
+release:       ./run.sh
