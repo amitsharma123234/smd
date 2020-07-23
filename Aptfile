@@ -1,3 +1,4 @@
 python3-pyqt5.qtwebengine
 python-pygame
 python-dev
+libsdl1.2-dev
